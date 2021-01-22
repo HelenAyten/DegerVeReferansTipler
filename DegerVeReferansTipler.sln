@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegerVeReferansTipler", "DegerVeReferansTipler\DegerVeReferansTipler.csproj", "{1CFC84BD-F022-409D-82AA-DF1EAA934A93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CFC84BD-F022-409D-82AA-DF1EAA934A93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CFC84BD-F022-409D-82AA-DF1EAA934A93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CFC84BD-F022-409D-82AA-DF1EAA934A93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CFC84BD-F022-409D-82AA-DF1EAA934A93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D31BA4D4-EF26-4D62-85D4-E6DB444C9302}
+	EndGlobalSection
+EndGlobal
